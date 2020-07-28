@@ -1,0 +1,4 @@
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    AddType application/x-httpd-php .html
+</IfModule>
